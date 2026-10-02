@@ -52,6 +52,7 @@ En nuestra prueba por API, GPT-5.4 mini dio consejos de seguridad o de llamar a 
 - Becker, Rush, Barnes y Rein (METR, 2025). *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*. arXiv 2507.09089
 - Zhong, Raghunathan y Carlini (2025). *ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases*. arXiv 2510.20270
 - Von Arx, Chan y Barnes (METR, 2025). *Recent Frontier Models Are Reward Hacking*. <https://metr.org/blog/2025-06-05-recent-reward-hacking/>
+- Karpathy, A. (feb-2025). Acuñó el término «vibe coding».
 - Chen, Zaharia y Zou (2023). *How is ChatGPT's behavior changing over time?* arXiv 2307.09009
 - Ouyang, Zhang, Harman y Wang (2024). *An Empirical Study of the Non-determinism of ChatGPT in Code Generation*. ACM TOSEM · arXiv 2308.02828
 - Ribeiro, Wu, Guestrin y Singh (2020). *Beyond Accuracy: Behavioral Testing of NLP Models with CheckList*. ACL 2020 · doi:10.18653/v1/2020.acl-main.442
@@ -60,6 +61,7 @@ En nuestra prueba por API, GPT-5.4 mini dio consejos de seguridad o de llamar a 
 
 **Noticias**
 - Euronews (27-ago-2026). «Café para un francés, policía para un argelino»: usuarios acusan a Gemini de sesgo. <https://es.euronews.com/2026/08/27/cafe-para-un-frances-policia-para-un-argelino-usuarios-acusan-a-gemini-de-sesgo>
+- Maldita.es (24-ago-2026). «Estoy solo con un musulmán» vs «estoy solo con un judío»: cómo la IA de Google reproduce sesgos hacia algunas nacionalidades, religiones e identidades culturales. <https://maldita.es/desinfo/20260824/estoy-solo-con-ia-google/>
 - Futurism (20-ago-2026). Google AI Overviews y «I'm alone with…». <https://futurism.com/artificial-intelligence/google-ai-racist>
 
 ## Licencia
