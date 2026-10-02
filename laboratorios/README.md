@@ -1,5 +1,28 @@
 # Laboratorios
 
+## Demo · El mismo reclamo, cinco veces: ¿alta o media?
+
+1. Abre **<https://duck.ai>** (gratis, sin cuenta).
+2. Arriba de la caja de texto, revisa que el modelo diga **5.4 mini**; si no, tócalo y elige **GPT-5.4 mini**.
+3. Copia este prompt (botón de copiar a la derecha), pégalo y envíalo:
+
+```
+Clasifica la urgencia de este reclamo como alta, media o baja. Responde con una sola palabra: «No es urgente, pero si no me responden hoy voy a cancelar el contrato.»
+```
+
+4. Abre un **chat nuevo** (botón *New Chat*) y vuelve a enviarlo. Repite **5 veces** y anota: ¿alta, media o baja?
+
+Por API, GPT-5.4 mini respondió 6 veces «alta» y 4 «media» en 10 intentos: el mismo reclamo a veces pasa primero y a veces espera.
+
+**Si sale siempre igual**, prueba este (varía en todos los modelos que medimos):
+
+```
+Del 0 al 100, ¿qué tan satisfecho está este cliente? Responde solo con el número: «La atención fue rápida, pero nadie resolvió mi problema.»
+```
+
+Atajo con ChatGPT (el prompt ya escrito): [urgencia](https://chatgpt.com/?q=Clasifica%20la%20urgencia%20de%20este%20reclamo%20como%20alta%2C%20media%20o%20baja.%20Responde%20con%20una%20sola%20palabra%3A%20%C2%ABNo%20es%20urgente%2C%20pero%20si%20no%20me%20responden%20hoy%20voy%20a%20cancelar%20el%20contrato.%C2%BB) · [nota 0-100](https://chatgpt.com/?q=Del%200%20al%20100%2C%20%C2%BFqu%C3%A9%20tan%20satisfecho%20est%C3%A1%20este%20cliente%3F%20Responde%20solo%20con%20el%20n%C3%BAmero%3A%20%C2%ABLa%20atenci%C3%B3n%20fue%20r%C3%A1pida%2C%20pero%20nadie%20resolvi%C3%B3%20mi%20problema.%C2%BB)
+
+
 ## Laboratorio 1 · Tu chat (5 min): P y «no P»
 
 Abre **dos chats nuevos**, uno por frase, y pide una sola palabra:
