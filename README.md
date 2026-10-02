@@ -5,7 +5,9 @@ Materiales de la presentación **«Del prompt a la prueba: cómo medir si el sof
 - Webinar · Universidad Bolivariana del Ecuador y Rama Estudiantil IEEE UBE · 2 de octubre de 2026
 - Clase abierta · Proyecto Masterclass 2.0 · Carrera de Software · Universidad de Guayaquil
 
-Expositor: PhD. Maikel Y. Leyva-Vázquez
+Expositor: PhD. Maikel Y. Leyva-Vázquez · **[Sígueme en LinkedIn](https://www.linkedin.com/in/maikel-yelandi-leyva-v%C3%A1zquez-ph-d-1979b566/)** para más experimentos como estos.
+
+**Presentación en PDF:** se publicará aquí después del webinar (`presentacion/`).
 
 ## Contenido
 
